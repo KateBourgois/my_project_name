@@ -1,5 +1,6 @@
 # test
  cd /c/xampp/htdocs/spin
+ 
 git status
 
  git clone  https://github.com/KateBourgois/test
