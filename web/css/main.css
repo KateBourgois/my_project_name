@@ -1,0 +1,87 @@
+/*web/css/main.css*/
+
+input {  border-radius: 10px;padding:5px;margin-bottom: 15px;margin-top: 5px;display:block}﻿
+label{ padding:10px; width:250px;display:block;}
+.text{
+    color:red;  
+    font-family:Arial;
+    font-size:12px;
+  
+    text-decoration:none;
+    text-shadow:0px 1px 0px #fff;
+    margin-left:30%
+}
+
+button {
+	background-color:#6f9479;
+	-moz-border-radius:18px;
+	-webkit-border-radius:18px;
+	border-radius:15px;
+	border:1px solid #618064;
+	display:inline-block;
+	cursor:pointer;
+	color:#e8d6e8;
+	font-family:Arial;
+	font-size:17px;
+	padding:10px 10px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #5d665c;
+}
+button:hover {
+	background-color:#8ba17f;
+}
+button:active {
+	position:relative;
+	top:1px;
+}
+
+a { color:#6f9479;
+    font-family:Arial;
+    font-size:16px;
+    padding:16px 40px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #5d665c;
+    margin-left:25%
+}
+
+form{
+    background-color:#E9EBEE;
+    width:450px;
+    color:#6f9479;
+    font-family:Arial;
+    font-size:11px;
+    padding:16px 31px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #5d665c;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 2px 2px #d9d9d9;
+    padding:20px;
+    text-transform: uppercase;
+    margin-left:25%
+}
+
+
+
+.required { background-color:#E9EBEE;margin:5px}
+
+
+
+body {
+   
+    background-color: #E9EBEE
+}
+
+input {
+   padding-bottom: 4px;
+    padding: 1px;
+    border: 2px inset;
+    width: 172px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 377px;
+    background-color: #fff;
+}
