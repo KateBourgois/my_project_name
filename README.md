@@ -11,7 +11,7 @@ git add -A
 git commit -m "test"
 
 
-git remote add spin.php https://github.com/KateBourgois/test
+git remote add origin https://github.com/KateBourgois/test
 
 git remote -v
 
@@ -24,3 +24,5 @@ git pull
 git commit -m"test"
 
 git push
+
+git pull origin master --allow-unrelated-histories
