@@ -6,10 +6,20 @@ git status
 
 
 git add -A
+
 git commit -m "test"
 
 
 git remote add spin.php https://github.com/KateBourgois/test
+
 git remote -v
+
 git push spin.php master
+
 git rm spin.php
+
+git pull
+
+git commit -m"test"
+
+git push
